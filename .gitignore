@@ -1,0 +1,43 @@
+# 자격증명 — Windows에서는 클라우드 번들 업로드 시 자동 제외가 적용되지 않으므로 반드시 여기서 막는다
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+secrets.*
+**/serviceKey*
+**/apikey*
+**/api_key*
+
+# 원시 데이터 — 용량이 크고 재다운로드 가능. 클라우드 번들 100MB 제한도 고려
+data/raw/
+data/interim/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.tif
+*.tiff
+*.zip
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS / 편집기
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
