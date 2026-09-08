@@ -12,6 +12,7 @@
 | [docs/기능정의_요약.md](docs/기능정의_요약.md) | A4 한 장 요약 — 처음 보여줄 때, 발표 도입부 |
 | [docs/기능정의_노션용.md](docs/기능정의_노션용.md) | 전체 명세 — 기능별 입력 데이터 · GIS 연산 · 산출물 |
 | [docs/kric_api_inventory.md](docs/kric_api_inventory.md) | KRiC 교통약자 API 19건 전수 목록 + 데이터 소스 조사 메모 |
+| [docs/기능_실현가능성_검증.md](docs/기능_실현가능성_검증.md) | 기능 12개가 실제 데이터로 만들어지는지 판정 + 착수 전 확인 게이트 3건 |
 
 전체 명세는 아티팩트로도 발행돼 있다: https://claude.ai/code/artifact/17e3df5d-ec37-4a5c-abd9-59eb6071f33e
 
