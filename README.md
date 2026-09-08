@@ -13,6 +13,7 @@
 | [docs/기능정의_노션용.md](docs/기능정의_노션용.md) | 전체 명세 — 기능별 입력 데이터 · GIS 연산 · 산출물 |
 | [docs/kric_api_inventory.md](docs/kric_api_inventory.md) | KRiC 교통약자 API 19건 전수 목록 + 데이터 소스 조사 메모 |
 | [docs/기능_실현가능성_검증.md](docs/기능_실현가능성_검증.md) | 기능 12개가 실제 데이터로 만들어지는지 판정 + 착수 전 확인 게이트 3건 |
+| [docs/착수기능_5건.md](docs/착수기능_5건.md) | **조건 없이 바로 시작 가능한 5건** — 설명·데이터·연산·착수 순서 |
 | [docs/개발가능_기능목록.md](docs/개발가능_기능목록.md) | 착수 조건이 가벼운 순서로 정리한 개발 가능 기능 리스트 |
 
 전체 명세는 아티팩트로도 발행돼 있다: https://claude.ai/code/artifact/17e3df5d-ec37-4a5c-abd9-59eb6071f33e
